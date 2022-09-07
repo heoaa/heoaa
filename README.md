@@ -8,6 +8,7 @@
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 
 ### Hi there 👋
 
