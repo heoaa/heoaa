@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/heoaa">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Heoaa%20Repository&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Heoaa&fontSize=90"/>
   </a>
 </p>
 
