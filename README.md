@@ -9,6 +9,12 @@ Language
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 
+<summary>Sub Skills</summary>
+<p></p>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</details>
 
 software
 ![SPSS](https://img.shields.io/badge/-SPSS-3178C6?style=flat-square&logo=SPSS&logoColor=white)
