@@ -11,7 +11,7 @@ Language
 
 
 software
-![SPSS](https://img.shields.io/badge/SPSS-%23000000.svg?style=flat-square&logo=SPSS&logoColor=skyblue)
+![SPSS](https://img.shields.io/badge/-SPSS-3178C6?style=flat-square&logo=SPSS&logoColor=white)
 ![Qgis](https://img.shields.io/badge/QGIS-%23000000.svg?style=flat-square&logo=Qgis&logoColor=white)
 
 ### Hi there 👋
