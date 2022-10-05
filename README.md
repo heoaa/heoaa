@@ -11,8 +11,7 @@
 
 </details>
 <br>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp;
 <details>
 <summary>Sub Skills</summary>
 <p></p>
